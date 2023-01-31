@@ -7,6 +7,7 @@ import 'package:camerawesome/src/logger.dart';
 import 'package:camerawesome/src/orchestrator/models/sensor_type.dart';
 import 'package:camerawesome/src/orchestrator/models/video_options.dart';
 import 'package:collection/collection.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 export 'src/builder/camera_awesome_builder.dart';
